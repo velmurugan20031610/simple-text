@@ -1,4 +1,5 @@
 🚀 Overview
+SIMPLE TEXT
 
 This is a simple, interactive Character Counter Web App built using HTML, Tailwind CSS, and JavaScript.
 
@@ -63,4 +64,4 @@ It’s also a portfolio-worthy mini project to demonstrate your skills in creati
 🔗https://velmurugan20031610.github.io/simple-text/
 
 You can host it on GitHub Pages for free:
-https://your-username.github.io/character-counter
+https://velmurugan20031610.github.io/simple-text/
